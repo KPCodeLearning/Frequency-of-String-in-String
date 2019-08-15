@@ -1,1 +1,1 @@
-# Frequency-of-String-in-String
+# Frequency-of-string-in-String
